@@ -1,0 +1,18 @@
+******
+You must install .net framework 3.5 before installing this program
+"dotNetFx35setup"
+
+*****
+To install go to the StakeCamp Program folder and click on setup
+
+
+
+****
+The program's login:
+userid: admin
+password: password
+
+
+
+*****
+Copy and paste the database folder into your C: drive
