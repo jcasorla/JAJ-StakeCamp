@@ -1,0 +1,215 @@
+ public void updateCamper()//VEA BEGIN
+        {
+            connToDB.Open();
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Update customers Set(Last_name=?, First_name=?, Home_Phone=?, Cell_Phone=?, Address=?, City=?, State=?, Zip_Code=?, Ward_id=?, Birth_Date=?, eContact_id=? Where CustomerID=?, connToDB)";
+            
+            //// @address, @city, @state, @zipCode, @wardID, @birthDate, @emgContactID
+            cmd.Parameters.Add("@lastName", OleDbType.VarChar).Value = lastName;
+            cmd.Parameters.Add("@firstName", OleDbType.VarChar).Value = firstName;
+            cmd.Parameters.Add("@homePhone", OleDbType.VarChar).Value = homePhone;
+            cmd.Parameters.Add("@cellPhone", OleDbType.VarChar).Value = cellPhone;
+            cmd.Parameters.Add("@address", OleDbType.VarChar).Value = address;
+            cmd.Parameters.Add("@city", OleDbType.VarChar).Value = city;
+            cmd.Parameters.Add("@state", OleDbType.VarChar).Value = state;
+            cmd.Parameters.Add("@zipCode", OleDbType.VarChar).Value = zipCode;
+            cmd.Parameters.Add("@wardID", OleDbType.VarChar).Value = wardID;
+            cmd.Parameters.Add("@birthDate", OleDbType.VarChar).Value = birthDate;
+            cmd.Parameters.Add("@lName", OleDbType.VarChar).Value = emgContactID;
+
+            if (getNumIdentity2(sqlVariable, cmd) == true)//checks it getNumIdentity returns true
+            {
+                girlID = numIdentity;//then it assigns the retrieved @@IDENTITY 
+            }
+            MessageBox.Show(girlID.ToString());//test
+            connToDB.Close();
+            ADDLevelInfo();//calls function in order to add level information for the customer
+           
+        }//VEA END
+        //*******************************************************************************
+
+        //*******************DELETE CAMPER***********************************************
+        public void deleteCamper()//vea begin
+        {
+            connToDB.Open();
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Delete customers(Where CustomerID=?, connToDB)";
+
+            //// @address, @city, @state, @zipCode, @wardID, @birthDate, @emgContactID
+            cmd.Parameters.Add("@lastName", OleDbType.VarChar).Value = lastName;
+            cmd.Parameters.Add("@firstName", OleDbType.VarChar).Value = firstName;
+            cmd.Parameters.Add("@homePhone", OleDbType.VarChar).Value = homePhone;
+            cmd.Parameters.Add("@cellPhone", OleDbType.VarChar).Value = cellPhone;
+            cmd.Parameters.Add("@address", OleDbType.VarChar).Value = address;
+            cmd.Parameters.Add("@city", OleDbType.VarChar).Value = city;
+            cmd.Parameters.Add("@state", OleDbType.VarChar).Value = state;
+            cmd.Parameters.Add("@zipCode", OleDbType.VarChar).Value = zipCode;
+            cmd.Parameters.Add("@wardID", OleDbType.VarChar).Value = wardID;
+            cmd.Parameters.Add("@birthDate", OleDbType.VarChar).Value = birthDate;
+            cmd.Parameters.Add("@lName", OleDbType.VarChar).Value = emgContactID;
+
+            if (getNumIdentity2(sqlVariable, cmd) == true)//checks it getNumIdentity returns true
+            {
+                girlID = numIdentity;//then it assigns the retrieved @@IDENTITY 
+            }
+            MessageBox.Show(girlID.ToString());//test
+            connToDB.Close();
+            ADDLevelInfo();//calls function in order to add level information for the customer
+        }//vea end 
+
+public void updateLevelInfo()//VEA BEGIN
+        {
+            connToDB.Open();
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Update customer_level_link Set(Customer_id=?, [Level]=?, LevelYear=? Where Level=?, connToDB)";
+            
+            //customer_level_link(Customer_id, [Level], LevelYear)
+            cmd.Parameters.Add("@girlID", OleDbType.VarChar).Value = girlID;
+            cmd.Parameters.Add("@level", OleDbType.VarChar).Value = level;
+            cmd.Parameters.Add("@CurrentYear", OleDbType.VarChar).Value = Currentyear;
+
+            DataEntry2(sqlVariable, cmd);//calls function in order to enter data into database
+
+            connToDB.Close();
+        }//VEA END
+        //*******************************************************************************
+
+        //*******************DELETE LEVEL INFORMATION************************************
+        public void deleteLevelInfo()//vea begin
+        {
+            connToDB.Open();
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Delete customer_level_link(Where Level=?, connToDB)";
+
+            //customer_level_link(Customer_id, [Level], LevelYear)
+            cmd.Parameters.Add("@girlID", OleDbType.VarChar).Value = girlID;
+            cmd.Parameters.Add("@level", OleDbType.VarChar).Value = level;
+            cmd.Parameters.Add("@CurrentYear", OleDbType.VarChar).Value = Currentyear;
+
+            DataEntry2(sqlVariable, cmd);//calls function in order to enter data into database
+
+            connToDB.Close();//vea end
+        } 
+
+public void updateMedicalInfo()//VEA BEGIN
+        {
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Update girls_medical Set(customer_id=?, AsthmaYN=?, MedsYN=?, AllergiesYN=? Where Medical_id=?, connToDB)";
+            
+            //customer_level_link(Customer_id, [Level], LevelYear)
+            cmd.Parameters.Add("@girlID", OleDbType.VarChar).Value = girlID;
+            cmd.Parameters.Add("@asthmaYN", OleDbType.VarChar).Value = asthmaYN;
+            cmd.Parameters.Add("@medsYN", OleDbType.VarChar).Value = medsYN;
+            cmd.Parameters.Add("@allergyYN", OleDbType.VarChar).Value = allergyYN;
+
+            if (getNumIdentity2(sqlVariable, cmd) == true)//checks it getNumIdentity returns true
+            {
+                medicalID = numIdentity;//then it assigns the retrieved @@IDENTITY 
+            }
+
+            //DataEntry(sqlVariable);//calls function in order to enter data into database
+
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN           
+            ADDLimitationsInfo();//***** calls function in roder to add limitations info***** 
+        
+        }//VEA END
+        //*******************************************************************************
+
+        //*******************DELETE MEDICAL INFORMATION**********************************
+        public void deleteMedicalInfo()//vea begin
+        {
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Delete girls_medical(Where Medical_id=?, connToDB)";
+
+            //customer_level_link(Customer_id, [Level], LevelYear)
+            cmd.Parameters.Add("@girlID", OleDbType.VarChar).Value = girlID;
+            cmd.Parameters.Add("@asthmaYN", OleDbType.VarChar).Value = asthmaYN;
+            cmd.Parameters.Add("@medsYN", OleDbType.VarChar).Value = medsYN;
+            cmd.Parameters.Add("@allergyYN", OleDbType.VarChar).Value = allergyYN;
+
+            if (getNumIdentity2(sqlVariable, cmd) == true)//checks it getNumIdentity returns true
+            {
+                medicalID = numIdentity;//then it assigns the retrieved @@IDENTITY 
+            }
+
+            //DataEntry(sqlVariable);//calls function in order to enter data into database
+
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN           
+            ADDLimitationsInfo();//***** calls function in roder to add limitations info*****
+        }//vea end 
+
+
+ public void updateLimitationsInfo()//VEA BEGIN
+        {
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Upadate girl_limitations Set(customer_id=?, Description=? Where customer_id=?, connToDB)";
+            
+            //customer_level_link(Customer_id, [Level], LevelYear)
+            cmd.Parameters.Add("@girlID", OleDbType.VarChar).Value = girlID;
+            cmd.Parameters.Add("@limitDescription", OleDbType.VarChar).Value = limitDescription;
+                    
+            if (getNumIdentity2(sqlVariable, cmd) == true)//checks it getNumIdentity returns true
+            {
+                limitationsID = numIdentity;//then it assigns the retrieved @@IDENTITY 
+            }
+            //DataEntry(sqlVariable);//calls function in order to enter data into database
+
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN 
+        }//VEA END
+        //*******************************************************************************
+
+        //*******************DELETE LIMITATIONS INFORMATION******************************
+        public void deleteLimitationsInfo()
+        {
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Delete girl_limitations(Where customer_id=?, connToDB)";
+
+            //customer_level_link(Customer_id, [Level], LevelYear)
+            cmd.Parameters.Add("@girlID", OleDbType.VarChar).Value = girlID;
+            cmd.Parameters.Add("@limitDescription", OleDbType.VarChar).Value = limitDescription;
+
+            if (getNumIdentity2(sqlVariable, cmd) == true)//checks it getNumIdentity returns true
+            {
+                limitationsID = numIdentity;//then it assigns the retrieved @@IDENTITY 
+            }
+            //DataEntry(sqlVariable);//calls function in order to enter data into database
+
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN
+        }
+        //*******************************************************************************

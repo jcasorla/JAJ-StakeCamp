@@ -1,0 +1,28 @@
+ if (AddData.numOfWorked == 1)
+            {
+                MessageBox.Show("Record added succesfully");
+            }
+            else
+            {
+                MessageBox.Show("It appears there was an error when adding this record");
+            }
+
+ MessageBox.Show("Worked: " + dataAccessAdult.numOfWorked);
+                if (dataAccessAdult.numOfWorked == 3)
+                {
+                    MessageBox.Show("Record updated succesfully");
+                }
+                else
+                {
+                    MessageBox.Show("It appears there was an error when updating this record");
+                }
+
+  MessageBox.Show("Worked: " + dataAccessAdult.numOfWorked);
+                            if (dataAccessAdult.numOfWorked == 8)
+                            {
+                                MessageBox.Show("Record deleted succesfully");
+                            }
+                            else
+                            {
+                                MessageBox.Show("It appears there was an error when deleting this record");
+                            }

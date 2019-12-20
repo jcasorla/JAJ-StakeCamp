@@ -1,0 +1,52 @@
+*****Camper Tab********
+tbLName
+tbAddy
+tbCity
+tbState
+tbPostCode
+tbHomePh
+tbCellPh
+tbEmail
+
+ckbxRecReg
+ckbxRecConsent
+ckbxMedForm
+ckbxRecMoney
+
+rtbAddComments
+
+*********Guardian Tab********
+//Guardian 1
+tbGFName
+tbGLName
+tbGAddy
+tbGCity
+tbGState
+tbGPostCode
+tbGHome
+tbGCell
+tbGEmail
+
+//Guardian 2
+tbGFName2
+tbGLName2
+tbGAddy2
+tbGCity2
+tbGState2
+tbGPostCode2
+tbGHome2
+tbGCell2
+tbGEmail2
+
+**********Medical Tab********* 
+tbGEmail2
+rtbMed
+rtbLimit
+rtbAllergies
+
+**********Emergency Contact Tab****************
+tbECFName
+tbECLName
+tbECLName
+tbECPhone
+tbRelat

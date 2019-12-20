@@ -1,0 +1,23 @@
+  // 
+            // dg
+            // 
+            this.dg.AllowUserToAddRows = false;
+            this.dg.AutoGenerateColumns = false;
+            this.dg.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dg.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.adultIDDataGridViewTextBoxColumn,
+            this.firstNameDataGridViewTextBoxColumn,
+            this.lastNameDataGridViewTextBoxColumn,
+            this.Edit,
+            this.Delete});
+            //this.dg.DataSource = this.adultsBindingSource;
+            DbCommand cmd = GenericDataAccess.CreateCommand();
+            cmd.CommandText = "Select Adult_ID, First_Name, Last_Name from adults order by Adult_ID asc";
+            this.dg.DataSource = GenericDataAccess.ExecuteSelectCommand(cmd);
+            dg.Update();
+            this.dg.Location = new System.Drawing.Point(83, 57);
+            this.dg.Name = "dg";
+            this.dg.ReadOnly = true;
+            this.dg.Size = new System.Drawing.Size(543, 150);
+            this.dg.TabIndex = 0;
+            this.dg.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);

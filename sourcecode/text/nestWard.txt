@@ -1,0 +1,38 @@
+ public void updateGirlsNestLink()// VEA BEGIN
+        {
+            connToDB.Open();
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Update girls_nest_link Set customerID=?, nest_id=?, nest_year=? Where customerID=?";
+
+            cmd.Parameters.Add("@customerID", OleDbType.VarChar).Value = customerID;
+            cmd.Parameters.Add("@nestID", OleDbType.VarChar).Value = nestID;
+            cmd.Parameters.Add("@nestYear", OleDbType.VarChar).Value = nestYear;
+
+            DataEntry2(sqlVariable, cmd);
+
+            connToDB.Close();
+        }
+
+
+ public void updatAdultNestLink()// VEA BEGIN
+        {
+            connToDB.Open();
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Update adult_nest_link Set adultID=?, Nest_id=?, NestYear=? Where AdultID=?";
+
+            cmd.Parameters.Add("@adultID", OleDbType.VarChar).Value = adultID;
+            cmd.Parameters.Add("@nestID", OleDbType.VarChar).Value = nestID;
+            cmd.Parameters.Add("@nestYear", OleDbType.VarChar).Value = nestYear;
+
+            DataEntry2(sqlVariable, cmd);
+
+            connToDB.Close();
+        }

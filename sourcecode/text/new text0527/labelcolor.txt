@@ -1,0 +1,170 @@
+//editCamperForm
+
+////camper tab
+            ////label1.ForeColor = Color.Black;
+            ////label1.BackColor = Color.White;
+
+            ////label2.ForeColor = Color.Black;
+            ////label2.BackColor = Color.White;
+
+            ////label7.ForeColor = Color.Black;
+            ////label7.BackColor = Color.White;
+
+            ////label8.ForeColor = Color.Black;
+            ////label8.BackColor = Color.White;
+
+            ////label28.ForeColor = Color.Black;
+            ////label28.BackColor = Color.White;
+
+            ////birthDateLbl.ForeColor = Color.Black;
+            ////birthDateLbl.BackColor = Color.White;
+
+            ////label6.ForeColor = Color.Black;
+            ////label6.BackColor = Color.White;
+	
+	
+	
+	 //guardian tab
+
+            //lblHomePh.ForeColor = Color.Black;
+            //lblHomePh.BackColor = Color.White;
+
+            //lblCellPh.ForeColor = Color.Black;
+            //lblCellPh.BackColor = Color.White;
+
+            //label20.ForeColor = Color.Black;
+            //label20.BackColor = Color.White;
+
+            //label21.ForeColor = Color.Black;
+            //label21.BackColor = Color.White;
+
+            //lblPostCode.ForeColor = Color.Black;
+            //lblPostCode.BackColor = Color.White;
+
+            //lblEmail.ForeColor = Color.Black;
+            //lblEmail.BackColor = Color.White;
+
+            //label19.ForeColor = Color.Black;
+            //label19.BackColor = Color.White;
+
+            //label22.ForeColor = Color.Black;
+            //label22.BackColor = Color.White;
+
+	
+	
+	//emg contact tab
+            //lblPhNum.ForeColor = Color.Black;
+            //lblPhNum.BackColor = Color.White;
+			
+//edit adult form
+	
+ //adult tab
+            //label1.ForeColor = Color.Black;
+            //label1.BackColor = Color.White;
+
+            //label2.ForeColor = Color.Black;
+            //label2.BackColor = Color.White;
+
+            //label7.ForeColor = Color.Black;
+            //label7.BackColor = Color.White;
+
+            //label8.ForeColor = Color.Black;
+            //label8.BackColor = Color.White;
+
+            //label9.ForeColor = Color.Black;
+            //label9.BackColor = Color.White;
+
+            //DOBlabel.ForeColor = Color.Black;
+            //DOBlabel.BackColor = Color.White;
+
+            //label6.ForeColor = Color.Black;
+            //label6.BackColor = Color.White;
+  
+ ////emg contact tab
+            //lblPhNum.ForeColor = Color.Black;
+            //lblPhNum.BackColor = Color.White;
+
+			
+//addcamper form
+//camper tab
+            // label1.ForeColor = Color.Black;
+            // label1.BackColor = Color.White;
+
+            // label2.ForeColor = Color.Black;
+            // label2.BackColor = Color.White;
+
+            // label7.ForeColor = Color.Black;
+            // label7.BackColor = Color.White;
+
+            // label8.ForeColor = Color.Black;
+            // label8.BackColor = Color.White;
+
+            // label25.ForeColor = Color.Black;
+            // label25.BackColor = Color.White;
+
+            // birthDateLbl.ForeColor = Color.Black;
+            // birthDateLbl.BackColor = Color.White;
+
+            // label6.ForeColor = Color.Black;
+            // label6.BackColor = Color.White;
+			
+	//guardian tab
+
+            // lblHomePh.ForeColor = Color.Black;
+            // lblHomePh.BackColor = Color.White;
+
+            // lblCellPh.ForeColor = Color.Black;
+            // lblCellPh.BackColor = Color.White;
+
+            // label20.ForeColor = Color.Black;
+            // label20.BackColor = Color.White;
+
+            // label21.ForeColor = Color.Black;
+            // label21.BackColor = Color.White;
+
+            // lblPostCode.ForeColor = Color.Black;
+            // lblPostCode.BackColor = Color.White;
+
+            // lblEmail.ForeColor = Color.Black;
+            // lblEmail.BackColor = Color.White;
+
+            // label19.ForeColor = Color.Black;
+            // label19.BackColor = Color.White;
+
+            // label22.ForeColor = Color.Black;
+            // label22.BackColor = Color.White;
+
+//add adult form
+
+//adult tab
+            // label1.ForeColor = Color.Black;
+            // label1.BackColor = Color.White;
+
+            // label2.ForeColor = Color.Black;
+            // label2.BackColor = Color.White;
+
+            // label7.ForeColor = Color.Black;
+            // label7.BackColor = Color.White;
+
+            // label8.ForeColor = Color.Black;
+            // label8.BackColor = Color.White;
+
+            // label9.ForeColor = Color.Black;
+            // label9.BackColor = Color.White;
+
+            // DOBlabel.ForeColor = Color.Black;
+            // DOBlabel.BackColor = Color.White;
+
+            // label6.ForeColor = Color.Black;
+            // label6.BackColor = Color.White;
+			
+	 //emg contact tab
+            // lblPhNum.ForeColor = Color.Black;
+            // lblPhNum.BackColor = Color.White;
+	
+
+
+  
+  
+  
+  

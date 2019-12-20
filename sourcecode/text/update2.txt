@@ -1,0 +1,351 @@
+  //*******************UPDATE GUARDIAN INFORMATION*********************************
+        public void updateGuardianInfo()//vea begin
+        {
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Update guardians Set(First_Name=?, Last_Name=?, Email=?, Home_Phone=?, Cell_Phone=?, Address=?, State=?, City=?, Zip_Code=? Where Guardian_ID=?, connToDB)";
+            
+            //First_Name, Last_Name, Email, Home_Phone, Cell_Phone, Address, State, City, Zip_Code
+            cmd.Parameters.Add("@guardFName", OleDbType.VarChar).Value = guardFName;
+            cmd.Parameters.Add("@guardLName", OleDbType.VarChar).Value = guardLName;
+            cmd.Parameters.Add("@guardEmail", OleDbType.VarChar).Value = guardEmail;
+            cmd.Parameters.Add("@guardHPhone", OleDbType.VarChar).Value = guardHPhone;
+            cmd.Parameters.Add("@guardCPhone", OleDbType.VarChar).Value = guardCPhone;
+            cmd.Parameters.Add("@guardAddress", OleDbType.VarChar).Value = guardAddress;
+            cmd.Parameters.Add("@guardState", OleDbType.VarChar).Value = guardState;
+            cmd.Parameters.Add("@guardCity", OleDbType.VarChar).Value = guardCity;
+            cmd.Parameters.Add("@guardzipCode", OleDbType.VarChar).Value = guardZipCode;
+
+            if (getNumIdentity2(sqlVariable, cmd) == true)//checks it getNumIdentity returns true
+            {
+                guardianID = numIdentity;//then it assigns the retrieved @@IDENTITY 
+            }
+
+            connToDB.Close();
+            AddGirlGuardianLink();
+        }//vea end
+        //*******************************************************************************
+
+        //*******************DELETE GUARDIAN INFORMATION*********************************
+        public void deleteGuardianInfo()//vea begin
+        {
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Delete guardians(Where Guardian_ID=?, connToDB)";
+
+            //First_Name, Last_Name, Email, Home_Phone, Cell_Phone, Address, State, City, Zip_Code
+            cmd.Parameters.Add("@guardFName", OleDbType.VarChar).Value = guardFName;
+            cmd.Parameters.Add("@guardLName", OleDbType.VarChar).Value = guardLName;
+            cmd.Parameters.Add("@guardEmail", OleDbType.VarChar).Value = guardEmail;
+            cmd.Parameters.Add("@guardHPhone", OleDbType.VarChar).Value = guardHPhone;
+            cmd.Parameters.Add("@guardCPhone", OleDbType.VarChar).Value = guardCPhone;
+            cmd.Parameters.Add("@guardAddress", OleDbType.VarChar).Value = guardAddress;
+            cmd.Parameters.Add("@guardState", OleDbType.VarChar).Value = guardState;
+            cmd.Parameters.Add("@guardCity", OleDbType.VarChar).Value = guardCity;
+            cmd.Parameters.Add("@guardzipCode", OleDbType.VarChar).Value = guardZipCode;
+
+            if (getNumIdentity2(sqlVariable, cmd) == true)//checks it getNumIdentity returns true
+            {
+                guardianID = numIdentity;//then it assigns the retrieved @@IDENTITY 
+            }
+
+            connToDB.Close();
+            AddGirlGuardianLink();
+        }//vea end
+        //*******************************************************************************
+
+        //*******************ADD GIRL GUARDIAN LINK**************************************
+        public void AddGirlGuardianLink()
+        {
+            string sqlVariable;
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Insert into girl_guardian_link(guardian_id, customer_id)"
+             + "values(?, ?)";
+
+            //customer_level_link(Customer_id, [Level], LevelYear)
+            cmd.Parameters.Add("@guardianID", OleDbType.VarChar).Value = guardianID;
+            cmd.Parameters.Add("@girlID", OleDbType.VarChar).Value = girlID;
+            
+            DataEntry2(sqlVariable, cmd);//calls function in order to enter data into database
+
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN   
+        }
+        //*******************************************************************************
+
+        //*******************UPDATE GIRL GUARDIAN LINK***********************************
+        public void updateGirlGuardianLink()//vea begin
+        {
+            string sqlVariable;
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Update girl_guardian_link Set(guardian_id=?, customer_id=? Where Medical_id=?, connToDB)";
+            
+            //customer_level_link(Customer_id, [Level], LevelYear)
+            cmd.Parameters.Add("@guardianID", OleDbType.VarChar).Value = guardianID;
+            cmd.Parameters.Add("@girlID", OleDbType.VarChar).Value = girlID;
+
+            DataEntry2(sqlVariable, cmd);//calls function in order to enter data into database
+
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN 
+        }//vea end
+        //*******************************************************************************
+
+        //*******************DELETE GIRL GUARDIAN LINK***********************************
+        public void deleteGirlGuardianLink()//vea begin
+        {
+            string sqlVariable;
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Delete girl_guardian_link(Where Medical_id=?, connToDB)";
+
+            //customer_level_link(Customer_id, [Level], LevelYear)
+            cmd.Parameters.Add("@guardianID", OleDbType.VarChar).Value = guardianID;
+            cmd.Parameters.Add("@girlID", OleDbType.VarChar).Value = girlID;
+
+            DataEntry2(sqlVariable, cmd);//calls function in order to enter data into database
+
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN 
+        }//vea end
+        //*******************************************************************************
+
+        //*******************ADD EMERGENCY CONTACT INFORMATION***************************
+        //start jose
+        public void AddEmergencyContactInfo()
+        {
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Insert into emergency_contact(First_Name, Last_Name, Phone, Relationship)"
+             + "values(?, ?, ?, ?)";
+
+            //First_Name, Last_Name, Phone, Relationship
+            cmd.Parameters.Add("@emgFirstName", OleDbType.VarChar).Value = emgFirstName;
+            cmd.Parameters.Add("@emgLastName", OleDbType.VarChar).Value = emgLastName;
+            cmd.Parameters.Add("@emgPhone", OleDbType.VarChar).Value = emgPhone;
+            cmd.Parameters.Add("@emgRelationship", OleDbType.VarChar).Value = emgRelationship;
+                      
+            if (getNumIdentity2(sqlVariable, cmd) == true)//checks it getNumIdentity returns true
+            {
+                emgContactID = numIdentity;//then it assigns the retrieved @@IDENTITY 
+            }
+            //DataEntry(sqlVariable);//calls function in order to enter data into database
+
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN
+        }//end jose
+        //*******************************************************************************
+
+        //*******************UPDATE EMERGENCY CONTACT INFORMATION************************
+        public void updateEmergencyContactInfo()//vea begin
+        {
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Update emergency_contact Set(First_Name=?, Last_Name=?, Phone=?, Relationship=? Where Emergecny_contactID=?, connToDB)";
+            
+            //First_Name, Last_Name, Phone, Relationship
+            cmd.Parameters.Add("@emgFirstName", OleDbType.VarChar).Value = emgFirstName;
+            cmd.Parameters.Add("@emgLastName", OleDbType.VarChar).Value = emgLastName;
+            cmd.Parameters.Add("@emgPhone", OleDbType.VarChar).Value = emgPhone;
+            cmd.Parameters.Add("@emgRelationship", OleDbType.VarChar).Value = emgRelationship;
+
+            if (getNumIdentity2(sqlVariable, cmd) == true)//checks it getNumIdentity returns true
+            {
+                emgContactID = numIdentity;//then it assigns the retrieved @@IDENTITY 
+            }
+            //DataEntry(sqlVariable);//calls function in order to enter data into database
+
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN
+        }//vea end
+        //*******************************************************************************
+
+        //*******************DELETE EMERGENCY CONTACT INFORMATION************************
+        public void deleteEmergencyContactInfo()//vea begin
+        {
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Delete emergency_contact(Where Emergecny_contactID=?, connToDB)";
+
+            //First_Name, Last_Name, Phone, Relationship
+            cmd.Parameters.Add("@emgFirstName", OleDbType.VarChar).Value = emgFirstName;
+            cmd.Parameters.Add("@emgLastName", OleDbType.VarChar).Value = emgLastName;
+            cmd.Parameters.Add("@emgPhone", OleDbType.VarChar).Value = emgPhone;
+            cmd.Parameters.Add("@emgRelationship", OleDbType.VarChar).Value = emgRelationship;
+
+            if (getNumIdentity2(sqlVariable, cmd) == true)//checks it getNumIdentity returns true
+            {
+                emgContactID = numIdentity;//then it assigns the retrieved @@IDENTITY 
+            }
+            //DataEntry(sqlVariable);//calls function in order to enter data into database
+
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN
+        }//vea end
+        //*******************************************************************************
+
+        //*******************REGISTRATION************************************************
+        public void Registration()
+        {
+            string sqlVariable;
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Insert into enrollment(Recieved_Registration, Recieved_Emg_Consent, Recieved_Medical_Form, Recieved_Payment, Comments)"
+             + "values(?, ?, ?, ?, ?)";
+
+            //Recieved_Registration, Recieved_Emg_Consent, Recieved_Medical_Form, Recieved_Payment, Comments
+            cmd.Parameters.Add("@recievedRegistration", OleDbType.VarChar).Value = recievedRegistration;
+            cmd.Parameters.Add("@recievedEmergencyConcent", OleDbType.VarChar).Value = recievedEmergencyConcent;
+            cmd.Parameters.Add("@recievedMedicalForm", OleDbType.VarChar).Value = recievedMedicalForm;
+            cmd.Parameters.Add("@recievedPayment", OleDbType.VarChar).Value = recievedPayment;
+            cmd.Parameters.Add("@enrollComments", OleDbType.VarChar).Value = enrollComments;
+           
+            if (getNumIdentity2(sqlVariable, cmd) == true)//checks it getNumIdentity returns true
+            {
+                enrollID = numIdentity;//then it assigns the retrieved @@IDENTITY 
+            }
+
+            //DataEntry(sqlVariable);//calls function in order to enter data into database
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN
+            addEnrollmentGirlLink();
+        }
+        //*******************************************************************************
+
+        //*******************UPDATE REGISTRATION*****************************************
+        public void updateRegistration()//vea begin
+        {
+            string sqlVariable;
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Update enrollment Set(Recieved_Registration=?, Recieved_Emg_Consent=?, Recieved_Medical_Form=?, Recieved_Payment=?, Comments=? Where Enroll_ID, connToDB)";
+            
+            //Recieved_Registration, Recieved_Emg_Consent, Recieved_Medical_Form, Recieved_Payment, Comments
+            cmd.Parameters.Add("@recievedRegistration", OleDbType.VarChar).Value = recievedRegistration;
+            cmd.Parameters.Add("@recievedEmergencyConcent", OleDbType.VarChar).Value = recievedEmergencyConcent;
+            cmd.Parameters.Add("@recievedMedicalForm", OleDbType.VarChar).Value = recievedMedicalForm;
+            cmd.Parameters.Add("@recievedPayment", OleDbType.VarChar).Value = recievedPayment;
+            cmd.Parameters.Add("@enrollComments", OleDbType.VarChar).Value = enrollComments;
+           
+            if (getNumIdentity2(sqlVariable, cmd) == true)//checks it getNumIdentity returns true
+            {
+                enrollID = numIdentity;//then it assigns the retrieved @@IDENTITY 
+            }
+
+            //DataEntry(sqlVariable);//calls function in order to enter data into database
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN
+            addEnrollmentGirlLink();
+        }//vea end
+        //*******************************************************************************
+
+        //*******************DELETE REGISTRATION*****************************************
+        public void deleteRegistration()//vea begin
+        {
+            string sqlVariable;
+            connToDB.Open(); // THIS IS IMPORTANT
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Delete enrollment(Where Enroll_ID, connToDB)";
+
+            //Recieved_Registration, Recieved_Emg_Consent, Recieved_Medical_Form, Recieved_Payment, Comments
+            cmd.Parameters.Add("@recievedRegistration", OleDbType.VarChar).Value = recievedRegistration;
+            cmd.Parameters.Add("@recievedEmergencyConcent", OleDbType.VarChar).Value = recievedEmergencyConcent;
+            cmd.Parameters.Add("@recievedMedicalForm", OleDbType.VarChar).Value = recievedMedicalForm;
+            cmd.Parameters.Add("@recievedPayment", OleDbType.VarChar).Value = recievedPayment;
+            cmd.Parameters.Add("@enrollComments", OleDbType.VarChar).Value = enrollComments;
+
+            if (getNumIdentity2(sqlVariable, cmd) == true)//checks it getNumIdentity returns true
+            {
+                enrollID = numIdentity;//then it assigns the retrieved @@IDENTITY 
+            }
+
+            //DataEntry(sqlVariable);//calls function in order to enter data into database
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN
+            addEnrollmentGirlLink();
+        }//vea end
+        //*******************************************************************************
+
+        //*******************ADD ENROLLMENT GIRL LINK************************************
+        public void addEnrollmentGirlLink()
+        {
+            connToDB.Open(); // THIS IS IMPORTANT
+            string sqlVariable;
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Insert into enrollment_girl_link(enrollmentID, EnrollYear, customerID)"
+             + "values(?, ?, ?)";
+
+            //Recieved_Registration, Recieved_Emg_Consent, Recieved_Medical_Form, Recieved_Payment, Comments
+            cmd.Parameters.Add("@enrollID", OleDbType.VarChar).Value = enrollID;
+            cmd.Parameters.Add("@Currentyear", OleDbType.VarChar).Value = Currentyear;
+            cmd.Parameters.Add("@girlID", OleDbType.VarChar).Value = girlID;
+                     
+            DataEntry2(sqlVariable, cmd);//calls function in order to enter data into database
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN
+        }
+        //*******************************************************************************
+
+        //*******************UPDATE ENROLLMENT GIRL LINK*********************************
+        public void updateEnrollmentGirlLink()//vea begin
+        {
+            connToDB.Open(); // THIS IS IMPORTANT
+            string sqlVariable;
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Update enrollment_girl_link Set(enrollmentID=?, EnrollYear=?, customerID=? Where EnrollmentID=?, connToDB)";
+            
+            //Recieved_Registration, Recieved_Emg_Consent, Recieved_Medical_Form, Recieved_Payment, Comments
+            cmd.Parameters.Add("@enrollID", OleDbType.VarChar).Value = enrollID;
+            cmd.Parameters.Add("@Currentyear", OleDbType.VarChar).Value = Currentyear;
+            cmd.Parameters.Add("@girlID", OleDbType.VarChar).Value = girlID;
+
+            DataEntry2(sqlVariable, cmd);//calls function in order to enter data into database
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN
+        }//vea end
+        //*******************************************************************************
+
+        //*******************DELETE ENROLLMENT GIRL LINK*********************************
+        public void deleteEnrollmentGirlLink()//vea begin
+        {
+            connToDB.Open(); // THIS IS IMPORTANT
+            string sqlVariable;
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Delete enrollment_girl_link(Where EnrollmentID=?, connToDB)";
+
+            //Recieved_Registration, Recieved_Emg_Consent, Recieved_Medical_Form, Recieved_Payment, Comments
+            cmd.Parameters.Add("@enrollID", OleDbType.VarChar).Value = enrollID;
+            cmd.Parameters.Add("@Currentyear", OleDbType.VarChar).Value = Currentyear;
+            cmd.Parameters.Add("@girlID", OleDbType.VarChar).Value = girlID;
+
+            DataEntry2(sqlVariable, cmd);//calls function in order to enter data into database
+            connToDB.Close(); // THIS IS MORE IMPORTAN THAN OPEN
+        }//vea end
+        //*******************************************************************************
+    }

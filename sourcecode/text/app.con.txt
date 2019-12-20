@@ -1,0 +1,19 @@
+<add name="StakeCamp.Properties.Settings.girlsCampConnectionString2"
+            connectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\girlsCamp.mdb"
+            providerName="System.Data.OleDb" />
+        <add name="StakeCamp.Properties.Settings.girlsCampConnectionString1"
+            connectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\StakeCamp\Database\girlsCamp.mdb"
+            providerName="System.Data.OleDb" />
+
+
+
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="girlsCampConnectionString"
+            connectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=&quot;C:\StakeCampDatabase\Database\girlsCamp.mdb&quot;"
+            providerName="System.Data.OleDb" />        
+    </connectionStrings>
+</configuration>

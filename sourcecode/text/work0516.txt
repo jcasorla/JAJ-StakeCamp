@@ -1,0 +1,68 @@
+Transportation_id, Customer_id, transYear
+
+cmd.Parameters.Add("@transportID", OleDbType.VarChar).Value = transportID;
+            cmd.Parameters.Add("@girlID", OleDbType.VarChar).Value = girlID;
+            cmd.Parameters.Add("@tripYear", OleDbType.VarChar).Value = tripYear;
+
+connToDB.Open();
+
+            string sqlVariable;
+
+            OleDbCommand cmd = connToDB.CreateCommand();
+
+            sqlVariable = "Delete transportation_customer_link Where Customer_id=?, connToDB";
+
+            cmd.Parameters.Add("@girlID", OleDbType.VarChar).Value = girlID;
+
+            DataEntry2(sqlVariable, cmd);
+
+            connToDB.Close();
+
+
+cbCamperNest
+
+cbCamperTrans
+
+
+
+   public void GetAdultNestlink()//fixed
+        {
+            DbCommand comm = GenericDataAccess.CreateCommand();
+            comm.CommandText = "Select * from adult_nest_link where AdultID = " +
+                  adultID;
+            DataTable table = GenericDataAccess.ExecuteSelectCommand(comm);
+
+            if (table.Rows.Count > 0)
+            {
+                string temp1 = table.Rows[0]["Nest_id"].ToString();
+                int myParsedInt = Int32.Parse(temp1);
+                nestID = Convert.ToInt32(temp1);
+                //string temp2 = table.Rows[0]["NestYear"].ToString();
+                //int myParsedInt2 = Int32.Parse(temp2);
+                //nestYear = Convert.ToInt32(temp2);
+            }
+            GetNest();
+         
+        }
+
+
+  public void GetAdultTransLink()
+        {
+            DbCommand comm = GenericDataAccess.CreateCommand();
+            comm.CommandText = "Select * from adult_transportation_link where Adult_id = " +
+                  adultID;
+            DataTable table = GenericDataAccess.ExecuteSelectCommand(comm);
+
+            if (table.Rows.Count > 0)
+            {
+                string temp1 = table.Rows[0]["Transportation_id"].ToString();
+                //string temp1 = table.Rows[0]["transportationID"].ToString();
+                int myParsedInt = Int32.Parse(temp1);
+                transportID = Convert.ToInt32(temp1);
+                string temp2 = table.Rows[0]["trans_year"].ToString();
+                int myParsedInt2 = Int32.Parse(temp2);
+                tripYear = Convert.ToInt32(temp2);  
+            }
+            GetTransportation();
+
+        }

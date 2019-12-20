@@ -1,0 +1,474 @@
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.exe
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.pdb
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\bin\Release\StakeCamp.pdb
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\ResolveAssemblyReference.cache
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.adultForm.resources
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.camperForm.resources
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.addDecForm.resources
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.deleteForm.resources
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.mainMenu.resources
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.Properties.Resources.resources
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.reportsForm.resources
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.transForm.resources
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.updateForm.resources
+G:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.csproj.GenerateResource.Cache
+C:\Users\Allen Vea\Desktop\dessing review\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe.config
+C:\Users\Allen Vea\Desktop\dessing review\StakeCamp\StakeCamp\obj\Release\StakeCamp.exe
+C:\Users\Allen Vea\Desktop\dessing review\StakeCamp\StakeCamp\obj\Release\StakeCamp.pdb
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe.config
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.exe
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.pdb
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.adultForm.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.camperForm.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.addDecForm.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.AddNestForm.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.AddWardForm.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.EditAdultForm.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.EditDecision.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.EditNestsForm.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.EditWardsForm.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.mainMenu.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.Properties.Resources.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.ReportExampleForm.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.reportsForm.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.transForm.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.EditCamperForm.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.TransferForm.resources
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\obj\Release\StakeCamp.csproj.GenerateResource.Cache
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe
+C:\Users\Allen Vea\Desktop\Design Review\StakeCamp\StakeCamp\bin\Release\StakeCamp.pdb
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe.config
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.exe
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.pdb
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\bin\Release\StakeCamp.pdb
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.adultForm.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.camperForm.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.EditDecision.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.mainMenu.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.Properties.Resources.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.reportsForm.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.csproj.GenerateResource.Cache
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.addDecision.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.addNest.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.addWard.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.editAdult.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestDecision.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportation.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.editCamper.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.transfer.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.exportReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.addAdultNest.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.addCamperNest.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.testing.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.editNests.resources
+C:\Users\Allen Vea\Desktop\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.editWards.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe.config
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.exe
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.pdb
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\ResolveAssemblyReference.cache
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.adultForm.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.addAdultNest.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.camperForm.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.addCamperNest.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.addDecision.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.addNest.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.addWard.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.editAdult.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.editDecision.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.editNests.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.editWards.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.mainMenu.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestDecision.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.Properties.Resources.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.exportReport.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.reportsForm.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.testing.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportation.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.editCamper.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.transfer.resources
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\obj\Release\StakeCamp.csproj.GenerateResource.Cache
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\bin\Release\girlsCamp.mdb
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe
+I:\StakeCamp (Master)\StakeCamp\StakeCamp\bin\Release\StakeCamp.pdb
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe.config
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.exe
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.pdb
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\bin\Release\StakeCamp.pdb
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\ResolveAssemblyReference.cache
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.adultForm.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.addAdultNest.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.camperForm.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.addCamperNest.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.addDecision.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.addNest.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.addWard.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.editAdult.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.editDecision.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.editNests.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.editWards.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.mainMenu.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestDecision.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.Properties.Resources.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.exportReport.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.reportsForm.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.testing.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportation.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.editCamper.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.transfer.resources
+I:\Senior Project\C#.net\project progress\StakeCamp\StakeCamp\obj\Release\StakeCamp.csproj.GenerateResource.Cache
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe.config
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\bin\Release\StakeCamp.pdb
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\ResolveAssemblyReference.cache
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.adultForm.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.addAdultNest.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.camperForm.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.addCamperNest.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.addDecision.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.addNest.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.addWard.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.editAdult.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.editDecision.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.editNests.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.editWards.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.mainMenu.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestDecision.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.editCamperForm.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.Properties.Resources.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.exportReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.reportsForm.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.testing.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.transfer.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.csproj.GenerateResource.Cache
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.exe
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.pdb
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\bin\Release\RKLib.ExportData.dll
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.editAdultForm.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.Login.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.changePassword.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.changeUserID.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.userProfile.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.asthmaAdultReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.asthmaCamperReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.levelAdultReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.levelCamperReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.medicationAdultsReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.medicationCamperReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.missingAdultsReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.missingCamperReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestAdultsReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestCamperReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.transAdult.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportAdultsReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportCamperReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.wardCamperReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.transortDecision.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.transCamper.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.asthmaReportDecision.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.LevelReportDecision.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.medicalReportDecision.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.missingReportDecision.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestReportDecision.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.wardReportDecision.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportatioReportDecision.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.wardAdultsReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.assignAdultReport.resources
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\obj\Release\StakeCamp.GirlDuplicate.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe.config
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.exe
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.pdb
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\bin\Release\StakeCamp.pdb
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\bin\Release\RKLib.ExportData.dll
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.adultForm.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.addAdultNest.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.camperForm.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.addCamperNest.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.addDecision.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.addNest.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.addWard.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.assignAdultReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.LevelReportDecision.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.medicalReportDecision.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.missingReportDecision.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestReportDecision.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.wardReportDecision.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportatioReportDecision.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.wardAdultsReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.asthmaAdultReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.asthmaReportDecision.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.asthmaCamperReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.changePassword.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.changeUserID.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.editAdultForm.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.editDecision.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.editNests.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.editWards.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.levelAdultReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.levelCamperReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.Login.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.mainMenu.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.medicationAdultsReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.medicationCamperReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.missingAdultsReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.missingCamperReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestAdultsReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestDecision.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.editCamperForm.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestCamperReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.Properties.Resources.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.reportsForm.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.transAdult.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportAdultsReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.transCamper.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.transfer.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportCamperReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.userProfile.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.wardCamperReport.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.csproj.GenerateResource.Cache
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\bin\Release\StakeCamp.exe.config
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.exe
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.pdb
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\bin\Release\StakeCamp.exe
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\bin\Release\StakeCamp.pdb
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\bin\Release\RKLib.ExportData.dll
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\ResolveAssemblyReference.cache
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.adultForm.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.addAdultNest.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.camperForm.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.addCamperNest.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.addDecision.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.addNest.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.addWard.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.assignAdultReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.GirlDuplicate.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.LevelReportDecision.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.medicalReportDecision.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.missingReportDecision.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.nestReportDecision.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.wardReportDecision.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.transportatioReportDecision.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.wardAdultsReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.asthmaAdultReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.asthmaReportDecision.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.asthmaCamperReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.changePassword.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.changeUserID.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.editAdult.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.editAdultForm.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.editDecision.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.editNests.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.editWards.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.levelAdultReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.levelCamperReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.Login.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.mainMenu.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.medicationAdultsReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.medicationCamperReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.missingAdultsReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.missingCamperReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.nestAdultsReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.nestDecision.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.editCamperForm.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.nestCamperReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.Properties.Resources.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.exportReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.reportsForm.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.testing.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.transAdult.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.transportAdultsReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.transCamper.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.transfer.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.transportCamperReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.transortDecision.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.userProfile.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.wardCamperReport.resources
+I:\Senior Project\Other people\Allen\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.csproj.GenerateResource.Cache
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\bin\Release\StakeCamp.exe.config
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.exe
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.pdb
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\ResolveAssemblyReference.cache
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.adultForm.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.addAdultNest.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.camperForm.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.addCamperNest.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.addDecision.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.addNest.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.addWard.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.assignAdultReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.DuplicateAdult.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.DuplicateGirl.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.GirlDuplicate.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.LevelReportDecision.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.medicalReportDecision.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.missingReportDecision.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.nestReportDecision.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.wardReportDecision.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.transportatioReportDecision.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.wardAdultsReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.asthmaAdultReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.asthmaReportDecision.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.asthmaCamperReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.changePassword.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.changeUserID.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.editAdult.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.editAdultForm.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.editDecision.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.editNests.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.editWards.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.levelAdultReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.levelCamperReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.Login.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.mainMenu.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.medicationAdultsReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.medicationCamperReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.missingAdultsReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.missingCamperReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.nestAdultsReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.nestDecision.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.editCamperForm.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.nestCamperReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.Properties.Resources.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.exportReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.reportsForm.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.testing.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.transAdult.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.transportAdultsReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.transCamper.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.transfer.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.transportCamperReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.transportDecision.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.userProfile.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.wardCamperReport.resources
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\obj\Release\StakeCamp.csproj.GenerateResource.Cache
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\bin\Release\StakeCamp.exe
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\bin\Release\StakeCamp.pdb
+I:\Senior Project\project join\StakeCamp (0524)\StakeCamp\bin\Release\RKLib.ExportData.dll
+I:\Senior Project\project join\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe.config
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.exe
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.pdb
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\ResolveAssemblyReference.cache
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.adultForm.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.addAdultNest.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.camperForm.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.addCamperNest.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.addDecision.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.addNest.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.addWard.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.assignAdultReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.DuplicateAdult.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.DuplicateGirl.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.LevelReportDecision.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.medicalReportDecision.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.missingReportDecision.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestReportDecision.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.wardReportDecision.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportatioReportDecision.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.wardAdultsReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.asthmaAdultReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.asthmaReportDecision.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.asthmaCamperReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.changePassword.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.changeUserID.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.editAdultForm.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.editDecision.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.editNests.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.editWards.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.levelAdultReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.levelCamperReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.Login.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.mainMenu.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.medicationAdultsReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.medicationCamperReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.missingAdultsReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.missingCamperReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestAdultsReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestDecision.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.editCamperForm.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestCamperReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.Properties.Resources.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.reportsForm.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.transAdult.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportAdultsReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.transCamper.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.transfer.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportCamperReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportDecision.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.userProfile.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.wardCamperReport.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.csproj.GenerateResource.Cache
+I:\Senior Project\project join\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe
+I:\Senior Project\project join\StakeCamp\StakeCamp\bin\Release\StakeCamp.pdb
+I:\Senior Project\project join\StakeCamp\StakeCamp\bin\Release\RKLib.ExportData.dll
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.DuplicateAdult.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.DuplicateGirl.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.startPage.resources
+C:\Users\Allen Vea\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportDecision.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe.config
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.exe
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.pdb
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\bin\Release\StakeCamp.pdb
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\bin\Release\RKLib.ExportData.dll
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.adultForm.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.addAdultNest.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.camperForm.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.addCamperNest.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.addDecision.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.addNest.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.addWard.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.assignAdultReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.DuplicateAdult.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.DuplicateGirl.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.LevelReportDecision.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.medicalReportDecision.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.missingReportDecision.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestReportDecision.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.startPage.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.wardReportDecision.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportatioReportDecision.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.wardAdultsReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.asthmaAdultReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.asthmaReportDecision.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.asthmaCamperReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.changePassword.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.changeUserID.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.editAdultForm.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.editDecision.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.editNests.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.editWards.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.levelAdultReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.levelCamperReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.Login.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.mainMenu.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.medicationAdultsReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.medicationCamperReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.missingAdultsReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.missingCamperReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestAdultsReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestDecision.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.editCamperForm.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.nestCamperReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.Properties.Resources.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.reportsForm.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.transAdult.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportAdultsReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.transCamper.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.transfer.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportCamperReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.transportDecision.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.userProfile.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.wardCamperReport.resources
+C:\Documents and Settings\Owner\Desktop\StakeCamp\StakeCamp\obj\Release\StakeCamp.csproj.GenerateResource.Cache
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.startPage.resources
+I:\Senior Project\project join\StakeCamp\StakeCamp\bin\Release\StakeCamp.exe.manifest
+I:\Senior Project\project join\StakeCamp\StakeCamp\bin\Release\StakeCamp.application
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.exe.manifest
+I:\Senior Project\project join\StakeCamp\StakeCamp\obj\Release\StakeCamp.application

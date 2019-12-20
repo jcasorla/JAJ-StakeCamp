@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="StakeCamp.exe" version="1.0.0.2" publicKeyToken="efd5bb2b23e0d4f1" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="StakeCamp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="StakeCamp.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RKLib.ExportData.dll" size="20480">
+      <assemblyIdentity name="RKLib.ExportData" version="1.0.0.0" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>jDhTVBNt6b+FVp9EGGX56+gbJJs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="StakeCamp.exe" size="2027520">
+      <assemblyIdentity name="StakeCamp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>oVaiPaqK+cRKCoRD3lZ2ON1igtw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="_UpgradeReport_Files\UpgradeReport.css" size="3348">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>6O0vTe6ZjtdKiGR2X66nzYznXNc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="_UpgradeReport_Files\UpgradeReport.xslt" size="12579">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>5uzJ8WrZ5uEKOvWV6k8AE1xcCl8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="_UpgradeReport_Files\UpgradeReport_Minus.gif" size="69">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>yVqseK7xAbR64Rh+Y6SFoME5TtE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="_UpgradeReport_Files\UpgradeReport_Plus.gif" size="71">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YsYF2ILRE6p3E8MZ5jna4mpdaak=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ExportDll\RKLib.ExportData.dll" size="20480">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jDhTVBNt6b+FVp9EGGX56+gbJJs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="StakeCamp.exe.config" size="370">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>FQlgbpCNailhFbsMLaIzG3lG+8s=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=YOUR-648EE5CBD7\Owner" issuerKeyHash="2ea8467e88ae36f3978e59f31e220164a6a02d23" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>lKikROEmuc5wdFXKjoqd2i0/9ng=</DigestValue></Reference></SignedInfo><SignatureValue>Ga2X3CqK2Bn2fg7y1WeaBf/Ch0jKuLiQh1Jy7qYuP6gcNlLwHRRJVaPKhWVJ2kSX/CjID7LKDHIAkA1mi6hFGdtMO6K3YxrzISkfZAidOpuNV3AQdQ4AkkvplgJljtkY9mBF+EWvYKMjjPssKcZeEHaCVZZWV4u8518H5RVP8e8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>lnBQ6MxwOvc14WvhpWqzi6mrFzeHP6yNekNpWdlEE6o4onJl6dVNkSPVUaAfFcpm8ZkWsKtg7MQCRvwdPSImPeVmJM8pcO7sVAdKaD47JjpMUfZEOMnhv8A5wXRJ/9iLbYlzFS7ZEyLsl8J4SanclT2Phfw5IEREBe+25/ZR3F0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="78f63f2dda9d8a8eca557470ceb926e144a4a894" Description="" Url=""><as:assemblyIdentity name="StakeCamp.exe" version="1.0.0.2" publicKeyToken="efd5bb2b23e0d4f1" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=YOUR-648EE5CBD7\Owner</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>KYyC8S7yR2UxTWZQ1Gc+zarHREU=</DigestValue></Reference></SignedInfo><SignatureValue>b4kmj7fFCLdXXT8hnMAy/FYGIY++U730zAs3eDCDIebGoGevESX+f5p6JPFLi6Toh0WqPnMa76j2SfQVNwRXq4f400o/FrHp0Cidu2SyG0VaKUPk/SamOhnxfYf5BLQgOELQ2WirLJzAcMXYWf0bTKDbnAWSOdcf/0eDikma88I=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>lnBQ6MxwOvc14WvhpWqzi6mrFzeHP6yNekNpWdlEE6o4onJl6dVNkSPVUaAfFcpm8ZkWsKtg7MQCRvwdPSImPeVmJM8pcO7sVAdKaD47JjpMUfZEOMnhv8A5wXRJ/9iLbYlzFS7ZEyLsl8J4SanclT2Phfw5IEREBe+25/ZR3F0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAVKgAwIBAgIQnYw4vcBAaJtMAOqGz1O+jDAJBgUrDgMCHQUAMDUxMzAxBgNVBAMeKgBZAE8AVQBSAC0ANgA0ADgARQBFADUAQwBCAEQANwBcAE8AdwBuAGUAcjAeFw0wODA1MzAwMDQzNDdaFw0wOTA1MzAwNjQzNDdaMDUxMzAxBgNVBAMeKgBZAE8AVQBSAC0ANgA0ADgARQBFADUAQwBCAEQANwBcAE8AdwBuAGUAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAlnBQ6MxwOvc14WvhpWqzi6mrFzeHP6yNekNpWdlEE6o4onJl6dVNkSPVUaAfFcpm8ZkWsKtg7MQCRvwdPSImPeVmJM8pcO7sVAdKaD47JjpMUfZEOMnhv8A5wXRJ/9iLbYlzFS7ZEyLsl8J4SanclT2Phfw5IEREBe+25/ZR3F0CAwEAATAJBgUrDgMCHQUAA4GBADlT62HdzBPsZeKHlr0F4XvnB2x3Tzu4OqJ62qiFWBfjxmMxyT5Syrsgq9QqWbSyEFeJnF9/Y9OUx+6iZ02HocVItbQCU2iYCCHqFsDS8zc/wPFJPN2tSjfxdjeC2zOG/UeFv5ZrW3U6LSsrwFMXXXGUv9BjmwsBrZe9d8GeunY5</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

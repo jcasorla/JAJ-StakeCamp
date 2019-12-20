@@ -1,0 +1,133 @@
+addCamper <form>
+
+********Camper tab**********
+
+//home phone
+tbHomePhArea
+tbHomePh3
+tbHomePh4
+
+//cell phone
+tbCellAreaCode
+tbCellPh3
+tbCellPh4
+
+********Guardian Tab*********
+
+//guardian1 homephone
+tbGHomeAreaCode
+tbGHome3
+tbGHome4
+
+//guardian1 cellphone
+tbGCellAreaCode
+tbGCell3
+tbGCell4
+
+//guardian2 homephone
+tbGHome2AreaCode
+tbGHome32
+tbGHome42
+
+//guardian2 cellphone
+tbGCell2AreaCode
+tbGCell32
+tbGCell42
+
+*********Emergency contact tab*************
+//emg phone
+tbECPhoneAreaCode
+tbECPhone3
+tbECPhone4
+
+
+addAdult <form>
+
+*********Adult Tab************
+
+//adult homephone
+tbHomePhArea
+tbHomePh3
+tbHomePh4
+
+//adult cellphone
+tbCellPhCell
+tbCellPh3
+tbCellPh4
+
+***********emergency contact tab*************
+//emg phone
+tbECPhoneArea
+tbECPhone3
+tbECPhone4
+
+
+editCamperForm <form>
+
+***********Camper tab****************
+
+//homephone
+tbHomePhArea
+tbHomePh3
+tbHomePh4
+
+//cellphone
+tbCellPhArea
+tbCellPh3
+tbCellPh4
+
+************Guardian Tab***********
+
+//guardian 1 homephone
+tbGHomeArea
+tbGHomePh3
+tbGHomePh4
+
+//guardian 1 cellphone
+tbGCellArea
+tbGCellPh3
+tbGCellPh4
+
+//guardian 2 homephone
+tbGHomeArea2
+tbGHomePh32
+tbGHomePh42
+
+//guardian 2 cellphone
+tbGCellArea2
+tbGCell32
+tbGCell42
+
+*************emergency contact tab****************
+
+//emg phone
+tbECPhoneArea
+tbECPhone3
+tbECPhone4
+
+
+
+editAdultForm <form>
+
+************adult tab**************
+
+//homephone
+tbHomePhArea
+tbHomePh3
+tbHomePh4
+
+//cellphone
+tbCellPhArea
+tbCellPh3
+tbCellPh4
+
+***********Emergency Contact**********
+
+//emg phone
+tbECPhoneArea
+tbECPhone3
+tbECPhone4
+
+
+
+

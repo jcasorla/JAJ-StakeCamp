@@ -1,0 +1,10 @@
+  
+  girlCamper.AddEmergencyContactInfo();//calls function in order to insert emergency contact info                 
+  girlCamper.AddCamper();//***calls function AddCamper***
+  ADDLevelInfo();//calls function in order to add level information for the customer
+  girlCamper.Registration();//***calls function in order to add registration info***
+  addEnrollmentGirlLink();
+  girlCamper.AddGuardianInfo();  
+  AddGirlGuardianLink();
+  girlCamper.AddMedicalInfo();//***calls AddMedicalInfo function***
+  ADDLimitationsInfo();//***** calls function in roder to add limitations info***** 

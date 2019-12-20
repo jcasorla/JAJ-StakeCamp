@@ -1,0 +1,2 @@
+I:\Senior Project\C#.net\StakeCamp\StakeCamp\bin\Debug\StakeCamp.exe.config
+I:\Senior Project\project join\StakeCamp\StakeCamp\bin\Debug\StakeCamp.exe.config
